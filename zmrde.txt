@@ -1,8 +1,7 @@
 kde
 
-<<<<<<< HEAD
 tohle jsem pripsal ja - frant a
-=======
+
 ty si ale zmrd
 blbej
 debilní
@@ -18,4 +17,3 @@ fewjopfew
 
 
 fewjiofewjoiew
->>>>>>> master
